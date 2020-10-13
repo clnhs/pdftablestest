@@ -1,0 +1,15 @@
+name: pdftablestest2
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - opencv
+  - pdf2image
+  - ipykernel
+  - matplotlib
+  - pytesseract
+  - poppler
+  - pandas
+  - jupyterlab
+
