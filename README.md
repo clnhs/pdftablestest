@@ -29,6 +29,13 @@ If you need to activate said environment, use the following command: `conda acti
 - Numpy because numbers, and probably pandas along the way.
 - Tesseract for OCR (once I implement it)
 
+## To-do
+- [x] Find borders
+- [ ] Use actual PDF file as input
+- [ ] Convert input PDF file to pictures
+- [ ] Grouping
+- [ ] Find a way to identify tables without relying on their drawn borders
+- [ ] Find irregular tables (like the invoice example's main table)
 
 ## Obligatory cat
 ![Yay](https://media1.tenor.com/images/b1568040b7983be6c7f8bce94caf8f21/tenor.gif?itemid=11797622)
