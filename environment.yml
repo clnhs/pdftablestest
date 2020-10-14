@@ -1,4 +1,4 @@
-name: pdftablestest2
+name: pdftablestest
 channels:
   - defaults
   - conda-forge
